@@ -1,0 +1,231 @@
+ACHIEVER Industrial 1.8 SATA SSD MLC SPEC V1.4.pdf
+ACHIEVER Industrial 2.5 SATA SSD MLC SPEC V1.1.pdf
+ACHIEVER Industrial 2.5 SATA SSD pSLC SPEC V1.0.pdf
+ACHIEVER Industrial 2.5 SATA SSD SLC SPEC V1.1.pdf
+ACHIEVER Industrial CFast MLC SPEC V1.4.pdf
+ACHIEVER Industrial CFast pSLC SPEC V1.2.pdf
+ACHIEVER Industrial CFast SLC SPEC V1.5.pdf
+ACHIEVER Industrial Half Slim MLC SPEC V1.2.pdf
+ACHIEVER Industrial Half Slim pSLC SPEC V1.0.pdf
+ACHIEVER Industrial Half Slim SLC SPEC V1.0.pdf
+ACHIEVER Industrial M.2 2242 MLC SPEC V1.2.pdf
+ACHIEVER Industrial M.2 2242 pSLC SPEC V1.0.pdf
+ACHIEVER Industrial M.2 2242 SLC SPEC V1.2.pdf
+ACHIEVER Industrial M.2 2260 MLC SPEC V1.0.pdf
+ACHIEVER Industrial M.2 2280 MLC SPEC V1.3.pdf
+ACHIEVER Industrial M.2 2280 pSLC SPEC V1.3.pdf
+ACHIEVER Industrial mSATA MLC SPEC V1.4.pdf
+ACHIEVER Industrial mSATA pSLC SPEC V1.1.pdf
+ACHIEVER Industrial mSATA SLC SPEC V1.6.pdf
+ACHIEVER Industrial SATA DOM (Horizontal) MLC SPEC V1.0.pdf
+ACHIEVER Industrial SATA DOM MLC SPEC V1.1.pdf
+ACHIEVER Industrial SATA DOM SLC SPEC V1.0.pdf
+ACHIEVER Pro Industrial 2.5 SATA SSD MLC SPEC V1.7.pdf
+ACHIEVER Pro Industrial 2.5 SATA SSD pSLC SPEC V1.3.pdf
+ACHIEVER Pro Industrial 2.5 SATA SSD SLC SPEC V1.4.pdf
+ACHIEVER Pro Industrial Half Slim MLC SPEC V1.1.pdf
+ACHIEVER Pro Industrial M.2 2242 MLC SPEC V1.2.pdf
+ACHIEVER Pro Industrial M.2 2242 pSLC SPEC V1.0.pdf
+ACHIEVER Pro Industrial M.2 2280 MLC SPEC V1.2.pdf
+ACHIEVER Pro Industrial M.2 2280 pSLC SPEC V1.0.pdf
+ACHIEVER Pro Industrial mSATA MLC SPEC V1.1.pdf
+ACHIEVER Pro Industrial mSATA pSLC SPEC V1.2.pdf
+AES microSD Card SPEC V1.0a.pdf
+ARTON USB2.0 SPEC V1.3.pdf
+ARTON USB3.1 SPEC V1.1.pdf
+CLASSIC II Industrial 2.5 PATA SSD MLC SPEC V1.3.pdf
+CLASSIC II Industrial 2.5 PATA SSD SLC SPEC V1.4.pdf
+CLASSIC III Industrial 2.5 PATA SSD MLC SPEC V1.1.pdf
+CLASSIC III Industrial 2.5 PATA SSD SLC SPEC V1.1.pdf
+Commercial SD 3.0 SLC SPEC V1.0.pdf
+DEX II Industrial PCIe Gen4 M.2 2242 3D TLC SPEC V1.0.pdf
+DEX Industrial PCIe CFX 3D TLC SPEC V1.0.pdf
+DEX Industrial PCIe M.2 2242 3D TLC SPEC V1.1.pdf
+DEX Industrial PCIe M.2 2280 3D pSLC SPEC V1.0.pdf
+EMP I PCIe AIC 3D TLC SPEC V1.0.pdf
+EMP I PRIME Series PCIe U.2 SSD SPEC V1.0.pdf
+EMP I PRO Series PCIe U.2 SSD SPEC V1.1.pdf
+EMP I Series PCIe E1.S SSD SPEC V1.0.pdf
+EMP I Series PCIe U.2 SSD SPEC V1.2.pdf
+EMP I Series PCIe U.3 SSD SPEC V1.0.pdf
+FLEXXON 16GB DDR4-2666 ECC SO-DIMM 1.2V V1.0.pdf
+FLEXXON 1Gb SLC NAND (FxSN II) SPEC V1.2.pdf
+FLEXXON 1Gb SLC NAND (FxSN III) SPEC V1.0.pdf
+FLEXXON 2GB DDR3-1600 SO-DIMM 1.35V V1.0.pdf
+FLEXXON 2GB DDR3L-1600 SO-DIMM 1.35V V1.0.pdf
+FLEXXON 2Gb SLC NAND V1.1.pdf
+FLEXXON 32GB DDR4-3200 R-DIMM 1.2V V1.0.pdf
+FLEXXON 4GB DDR3-1600 SO-DIMM 1.35V V1.0.pdf
+FLEXXON 4GB DDR3L-1600 ECC SO-DIMM 1.35V V1.0.pdf
+FLEXXON 4GB DDR4-2400 ECC-DIMM 1.2V V1.0.pdf
+FLEXXON 8GB DDR3-1333 SO-DIMM 1.35V V1.0.pdf
+FLEXXON 8GB DDR3-1600 SO-DIMM 1.35V V1.0.pdf
+FLEXXON eSD Memory Card MLC (100ball) SPEC V1.1.pdf
+FLEXXON eSD Memory Card pSLC (100ball) SPEC V1.0.pdf
+FLEXXON eSD Memory Card SLC (100ball) SPEC V1.3.pdf
+FxLocker Secure USB 3.0 Flash Drive 3D TLC SPEC V1.5.pdf
+GALAXY Military 2.5 SATA SSD SLC SPEC V1.1.pdf
+GEX Industrial PCIe M.2 2280 3D TLC SPEC V1.4.pdf
+GEX PCIe M.2 2280 SPEC V1.0.pdf
+HIX Industrial PCIe M.2 2280 3D TLC SPEC V1.9.pdf
+HIX Industrial PCIe U.2 SSD 3D pSLC SPEC V1.0.pdf
+HIX Industrial PCIe U.2 SSD 3D TLC SPEC V1.6.pdf
+HIX PCIe M.2 2280 3D TLC SPEC V2.3.pdf
+HIX PCIe U.2 SSD 3D TLC SPEC V1.5.pdf
+Industrial microSD (FxAdv II) 3D pSLC SPEC V1.3.pdf
+Industrial microSD (FxAdv II) 3D TLC SPEC V1.1.pdf
+Industrial microSD (FxAdv) 3D pSLC SPEC V1.2.pdf
+Industrial microSD (FxAdv) 3D TLC SPEC V1.3.pdf
+Industrial microSD (FxPrem I) SLC SPEC V1.0.pdf
+Industrial microSD (FxPrem II) MLC SPEC V1.3.pdf
+Industrial microSD (FxPrem II) pSLC SPEC V1.2.pdf
+Industrial microSD (FxPrem II) SLC SPEC V1.3.pdf
+Industrial microSD (FxPrem III) SLC SPEC V1.3.pdf
+Industrial microSD (FxPrem IV) 3D pSLC SPEC V1.0.pdf
+Industrial microSD (FxPrem IV) 3D TLC SPEC V1.1.pdf
+Industrial microSD (FxPro I HighIOPS) SLC SPEC V1.3.pdf
+Industrial microSD (FxPro I) MLC SPEC V2.6.pdf
+Industrial microSD (FxPro I) pSLC SPEC V2.5.pdf
+Industrial microSD (FxPro I) SLC SPEC V1.1.pdf
+Industrial microSD (ROM) 3D pSLC SPEC V1.0.pdf
+Industrial microSD (ROM) 3D TLC SPEC V1.0.pdf
+Industrial microSD (ROM) MLC SPEC V1.1.pdf
+Industrial microSD (ROM) pSLC SPEC V1.0.pdf
+Industrial microSD (X-Mask) 3D pSLC SPEC V1.0.pdf
+Industrial microSD (X-Mask) 3D TLC SPEC V1.0.pdf
+Industrial microSD (X-Mask) MLC SPEC V1.2.pdf
+Industrial microSD (X-Mask) pSLC SPEC V1.1.pdf
+Industrial microSD (Xsign) 3D TLC SPEC V1.0.pdf
+Industrial microSD (Xsign) MLC SPEC V1.0.pdf
+Industrial microSD (Xsign) pSLC SPEC V1.0.pdf
+Industrial ROBUST USB DRIVE (FxAce) 3D pSLC SPEC V1.8.pdf
+Industrial ROBUST USB DRIVE (FxAce) 3D TLC SPEC V1.8 .pdf
+Industrial ROBUST USB DRIVE (SEC I) 3D TLC SPEC V1.3.pdf
+Industrial SD (FxAdv II) 3D pSLC SPEC V1.0.pdf
+Industrial SD (FxAdv II) 3D TLC SPEC V1.0.pdf
+Industrial SD (FxAdv) 3D pSLC SPEC V1.3.pdf
+Industrial SD (FxAdv) 3D TLC SPEC V1.4.pdf
+Industrial SD (FxPrem I) SLC SPEC V1.1.pdf
+Industrial SD (FxPrem II) MLC SPEC V1.3.pdf
+Industrial SD (FxPrem II) pSLC SPEC V1.2.pdf
+Industrial SD (FxPrem II) SLC SPEC V1.2.pdf
+Industrial SD (FxPrem III) SLC SPEC V1.2.pdf
+Industrial SD (FxPrem IV) 3D pSLC SPEC V1.0.pdf
+Industrial SD (FxPrem IV) 3D TLC SPEC V1.0.pdf
+Industrial SD (FxPro I HighIOPS) SLC SPEC V1.2.pdf
+Industrial SD (FxPro I) MLC SPEC V2.6.pdf
+Industrial SD (FxPro I) pSLC SPEC V2.5.pdf
+Industrial SD (FxPro I) SLC SPEC V1.6.pdf
+Industrial SD (ROM) 3D pSLC SPEC V1.0.pdf
+Industrial SD (ROM) 3D TLC SPEC V1.0.pdf
+Industrial SD (ROM) MLC SPEC V1.2.pdf
+Industrial SD (ROM) pSLC SPEC V1.0.pdf
+Industrial SD (X-Mask) 3D pSLC SPEC V1.0.pdf
+Industrial SD (X-Mask) 3D TLC SPEC V1.0.pdf
+Industrial SD (X-Mask) MLC SPEC V1.2.pdf
+Industrial SD (X-Mask) pSLC SPEC V1.0.pdf
+Industrial SD (X-Mask) SLC SPEC V1.0.pdf
+Industrial SD (Xsign) 3D pSLC SPEC V1.0.pdf
+Industrial SD (Xsign) 3D TLC SPEC V1.0.pdf
+Industrial SD (Xsign) MLC SPEC V1.0.pdf
+Industrial SD (Xsign) pSLC SPEC V1.0.pdf
+Industrial SD (Xsign) SLC SPEC V1.0.pdf
+Industrial USB (Read-Only) MLC SPEC V1.0.pdf
+Industrial USB (X-Mask) MLC SPEC V1.0.pdf
+Industrial USB 3.0 FLASH MODULE (FxReg) 3D TLC SPEC V1.6.pdf
+Industrial USB 3.0 FLASH MODULE (FxReg) MLC SPEC V1.3.pdf
+Industrial USB DRIVE (FxReg) 3D TLC SPEC V1.2.pdf
+Industrial USB FLASH MODULE (FxAce) 3D pSLC SPEC V1.5.pdf
+Industrial USB FLASH MODULE (FxAce) 3D TLC SPEC V1.6.pdf
+Industrial USB FLASH MODULE (FxReg) MLC SPEC V1.4.pdf
+Industrial Xsign USB MLC SPEC V1.0.pdf
+INSPIRE II Industrial 2.5 SATA SSD 3D TLC SPEC V1.1.pdf
+INSPIRE II Industrial CFAST 3D pSLC SPEC V1.0.pdf
+INSPIRE II Industrial M.2 2242 SATA 3D pSLC SPEC V1.1.pdf
+INSPIRE II Industrial M.2 2242 SATA 3D TLC SPEC V1.1.pdf
+INSPIRE II Industrial M.2 2260 3D TLC SPEC V1.0.pdf
+INSPIRE II Industrial M.2 2280 SATA 3D TLC SPEC V1.1.pdf
+INSPIRE II Industrial mSATA 3D TLC SPEC V1.1.pdf
+INSPIRE Industrial 2.5 SATA SSD 3D pSLC SPEC V1.1.pdf
+INSPIRE Industrial 2.5 SATA SSD 3D TLC SPEC V1.6.pdf
+INSPIRE Industrial CFast 3D pSLC SPEC V1.0.pdf
+INSPIRE Industrial M.2 2242 3D pSLC SPEC V1.0.pdf
+INSPIRE Industrial M.2 2242 3D TLC SPEC V1.5.pdf
+INSPIRE Industrial M.2 2260 3D pSLC SPEC V1.0.pdf
+INSPIRE Industrial M.2 2260 3D TLC SPEC V1.3.pdf
+INSPIRE Industrial M.2 2280 3D pSLC SPEC V1.0.pdf
+INSPIRE Industrial M.2 2280 3D TLC SPEC V1.7.pdf
+INSPIRE Industrial mSATA 3D pSLC SPEC V1.0.pdf
+INSPIRE Industrial mSATA 3D TLC SPEC V1.4.pdf
+INSPIRE LIT II Industrial M.2 2242 3D TLC SPEC V1.0.pdf
+INSPIRE LIT II Industrial M.2 2280 3D TLC SPEC V1.0.pdf
+INSPIRE LIT Industrial mSATA 3D TLC SPEC V1.0.pdf
+INSPIRE LIT Industrial SATA DOM (Horizontal) 3D TLC SPEC V1.4.pdf
+INSPIRE LIT Industrial SATA DOM (Vertical) 3D TLC SPEC V1.2.pdf
+LEGACY II Industrial Compact Flash Card SLC SPEC V2.3.pdf
+LEGACY III Industrial Compact Flash Card MLC SPEC V1.3.pdf
+LEGACY III Industrial Compact Flash Card pSLC SPEC V1.3.pdf
+LEGACY III Industrial Compact Flash Card SLC SPEC V1.4.pdf
+Lody Mobile SSD USB3.2 SPEC V1.0a.pdf
+microSD (FxAdv II) 3D pSLC SPEC V1.2.pdf
+microSD (FxAdv II) 3D TLC SPEC V1.3 - Raspberry Pi.pdf
+microSD (FxAdv II) 3D TLC SPEC V1.3.pdf
+microSD (FxAdv) 3D pSLC SPEC V1.2.pdf
+microSD (FxAdv) 3D TLC SPEC V1.3.pdf
+microSD (FxMav) QLC SPEC V1.1.pdf
+microSD (FxPro I HighIOPS) SLC SPEC V1.2.pdf
+microSD (FxPro I) MLC SPEC V2.6.pdf
+microSD (FxPro I) pSLC SPEC V2.7.pdf
+microSD (FxPro I) SLC SPEC V1.1.pdf
+microSD (FxPro III) 3D pSLC SPEC V1.1.pdf
+microSD (FxPro III) 3D TLC SPEC V1.2.pdf
+MiniElf USB2.0 SPEC V1.1.pdf
+MiniElf USB3.1 SPEC V1.3.pdf
+MINIELF USB3.2 GEN 1 (FxAce II ) 3D TLC SPEC V1.1.pdf
+MINIELF USB3.2 GEN 1 (Sec I ) 3D TLC SPEC V1.1.pdf
+Mobile SSD USB3.1 SPEC V1.5.pdf
+RAPIX II PCIe Gen4 M.2 2280 3D TLC SPEC V1.1.pdf
+RAPIX II uSSD PCIE SPEC V1.0 (1).pdf
+RAPIX II uSSD PCIE SPEC V1.0.pdf
+RAPIX Industrial PCIe CFX 3D TLC SPEC V1.1.pdf
+RAPIX Industrial PCIe M.2 2242 3D pSLC SPEC V1.0.pdf
+RAPIX Industrial PCIe M.2 2242 3D TLC SPEC V1.4.pdf
+RAPIX Industrial uSSD PCIE SPEC V1.1.pdf
+RAPIX PCIe M.2 2242 3D TLC SPEC V1.4.pdf
+RAPIX PCIe M.2 2280 3D TLC SPEC V1.0.pdf
+REX II Industrial PCIe M.2 2280 3D TLC SPEC V1.0.pdf
+SD (FxAdv II) 3D pSLC SPEC V1.0.pdf
+SD (FxAdv) 3D pSLC SPEC V1.2.pdf
+SD (FxAdv) 3D TLC SPEC V1.3.pdf
+SD (FxMav) QLC SPEC V1.0.pdf
+SD (FxPro I HighIOPS) SLC SPEC V1.1.pdf
+SD (FxPro I) MLC SPEC V2.8.pdf
+SD (FxPro I) pSLC SPEC V2.9.pdf
+SD (FxPro I) SLC SPEC V1.2.pdf
+SD (FxPro II) MLC SPEC V1.7.pdf
+SD (FxPro II) pSLC SPEC V1.1.pdf
+SD (FxPro III) 3D pSLC SPEC V1.2.pdf
+SD (FxPro III) 3D TLC SPEC V1.3.pdf
+SD (SD Express) 3D QLC SPEC V1.0.pdf
+VEX Industrial PCIe M.2 2280 3D pSLC SPEC V1.1.pdf
+VEX Industrial PCIe M.2 2280 3D TLC SPEC V1.1.pdf
+VEX PCIe M.2 2280 3D pSLC SPEC V1.0.pdf
+VEX PCIe M.2 2280 3D TLC SPEC V1.2.pdf
+WORM microSD Card SPEC V1.5.pdf
+WORM SD Card SPEC V1.5.pdf
+WORM USB SPEC V1.1.pdf
+XCEL 2.5 SATA SSD 3D TLC SPEC V2.2.pdf
+XCEL Industrial 2.5 SATA SSD 3D TLC SPEC V2.0.pdf
+XCEL Industrial M.2 2280 3D TLC SPEC V1.6.pdf
+XCEL M.2 2280 3D TLC SPEC V1.3.pdf
+XTREME II 2.5 SATA SSD 3D TLC SPEC V1.0.pdf
+XTREME II Half Slim 3D pSLC SPEC V1.1.pdf
+XTREME II Half Slim 3D TLC SPEC V1.0.pdf
+XTREME II Industrial 2.5 SATA SSD 3D TLC SPEC V1.0.pdf
+XTREME II Industrial Half Slim 3D pSLC SPEC V1.0.pdf
+XTREME II Industrial Half Slim 3D TLC SPEC V1.0.pdf
+XTREME II Industrial M.2 2280 3D TLC SPEC V1.0.pdf
+XTREME II M.2 2280 3D TLC SPEC V1.1.pdf
+XTREME II mSATA mini 3D TLC SPEC V1.0.pdf
+XTREME Industrial uSSD (SATA III 156B) 3D TLC SPEC V1.0.pdf
+XTREME uSSD (SATA III 156B) 3D TLC SPEC V1.0.pdf
