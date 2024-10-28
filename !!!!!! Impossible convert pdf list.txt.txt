@@ -1,0 +1,38 @@
+FLEXXON 16GB DDR4-2666 ECC SO-DIMM 1.2V V1.0.pdf
+FLEXXON 1Gb SLC NAND (FxSN II) SPEC V1.2.pdf
+FLEXXON 1Gb SLC NAND (FxSN III) SPEC V1.0.pdf
+FLEXXON 2GB DDR3-1600 SO-DIMM 1.35V V1.0.pdf
+FLEXXON 2GB DDR3L-1600 SO-DIMM 1.35V V1.0.pdf
+FLEXXON 2Gb SLC NAND V1.1.pdf
+FLEXXON 32GB DDR4-3200 R-DIMM 1.2V V1.0.pdf
+FLEXXON 4GB DDR3-1600 SO-DIMM 1.35V V1.0.pdf
+FLEXXON 4GB DDR3L-1600 ECC SO-DIMM 1.35V V1.0.pdf
+FLEXXON 4GB DDR4-2400 ECC-DIMM 1.2V V1.0.pdf
+FLEXXON 8GB DDR3-1333 SO-DIMM 1.35V V1.0.pdf
+FLEXXON 8GB DDR3-1600 SO-DIMM 1.35V V1.0.pdf
+FLEXXON eSD Memory Card MLC (100ball) SPEC V1.1.pdf
+FLEXXON eSD Memory Card pSLC (100ball) SPEC V1.0.pdf
+FLEXXON eSD Memory Card SLC (100ball) SPEC V1.3.pdf
+Industrial microSD (ROM) 3D pSLC SPEC V1.0.pdf
+Industrial microSD (ROM) 3D TLC SPEC V1.0.pdf
+Industrial microSD (ROM) MLC SPEC V1.1.pdf
+Industrial microSD (ROM) pSLC SPEC V1.0.pdf
+Industrial microSD (X-Mask) 3D pSLC SPEC V1.0.pdf
+Industrial microSD (X-Mask) 3D TLC SPEC V1.0.pdf
+Industrial microSD (X-Mask) MLC SPEC V1.2.pdf
+Industrial microSD (X-Mask) pSLC SPEC V1.1.pdf
+Industrial microSD (Xsign) 3D TLC SPEC V1.0.pdf
+Industrial microSD (Xsign) MLC SPEC V1.0.pdf
+Industrial microSD (Xsign) pSLC SPEC V1.0.pdf
+Industrial Xsign USB MLC SPEC V1.0.pdf
+INSPIRE II Industrial CFAST 3D pSLC SPEC V1.0.pdf
+LEGACY II Industrial Compact Flash Card SLC SPEC V2.3.pdf
+LEGACY III Industrial Compact Flash Card MLC SPEC V1.3.pdf
+LEGACY III Industrial Compact Flash Card pSLC SPEC V1.3.pdf
+LEGACY III Industrial Compact Flash Card SLC SPEC V1.4.pdf
+
+These are the names of deconvert table in files.
+I'll check the rest of the texts and upload it with more accurate until tomorrow.
+Is everything all right?
+Give me answer with bitbucket or send it to MA teacher as soon as possible.
+Maybe he couldn't reply so soon.
